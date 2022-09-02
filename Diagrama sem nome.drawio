@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T17:36:45.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="fIxOv8ajMkNQrq2RcXyv" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T18:00:54.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="jo19F0W0FvAdQFklGesf" version="20.2.8" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="1103" dy="598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F8CECC" math="0" shadow="1">
       <root>
@@ -21,8 +21,13 @@
         <mxCell id="vYmMZfeYy7RLyqo0MjJt-99" value="Potência/tensão&lt;br style=&quot;font-size: 14px;&quot;&gt;específica dos pontos&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=2;fontSize=14;fillColor=#FFCE9F;gradientColor=#9999FF;gradientDirection=east;arcSize=25;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="44" y="301.5" width="120" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="vYmMZfeYy7RLyqo0MjJt-156" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=open;startSize=14;endSize=14;" edge="1" parent="1" source="vYmMZfeYy7RLyqo0MjJt-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="664" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vYmMZfeYy7RLyqo0MjJt-101" value="Número mínimo de tomadas&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=2;fontSize=14;fontColor=#000000;fillColor=#FFCC99;gradientColor=#9999FF;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="608" y="301.5" width="105" height="75" as="geometry" />
+          <mxGeometry x="608" y="301.5" width="105" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="vYmMZfeYy7RLyqo0MjJt-113" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#000000;startSize=14;endSize=14;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,25 +51,24 @@
             <mxPoint x="43" y="41" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vYmMZfeYy7RLyqo0MjJt-159" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=open;startSize=14;endSize=14;" edge="1" parent="1" source="vYmMZfeYy7RLyqo0MjJt-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="542" y="547" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vYmMZfeYy7RLyqo0MjJt-117" value="Potência mínima&lt;br style=&quot;font-size: 14px;&quot;&gt;da iluminação" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=2;fontSize=14;fontColor=#000000;fillColor=#FFCC99;gradientColor=#9999FF;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="786" y="297.5" width="120" height="72" as="geometry" />
+          <mxGeometry x="604" y="419" width="120" height="72" as="geometry" />
         </mxCell>
         <mxCell id="vYmMZfeYy7RLyqo0MjJt-121" value="Pontos para:&amp;nbsp;&lt;br&gt;Ar Condicionado&lt;br&gt;MLL&lt;br&gt;MLR&lt;br&gt;MSR&lt;br&gt;Triturador&lt;br&gt;USB&lt;br&gt;Forno Elétrico&lt;br&gt;Microondas" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFCC99;fontColor=#000000;rounded=1;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=2;gradientColor=#9999FF;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="233" y="496" width="128" height="179" as="geometry" />
+          <mxGeometry x="255" y="501" width="128" height="179" as="geometry" />
         </mxCell>
         <mxCell id="vYmMZfeYy7RLyqo0MjJt-134" value="Interruptores a 15cm da porta" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFCC99;fontColor=#000000;rounded=1;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=2;gradientColor=#9999FF;gradientDirection=east;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="272" y="347" width="120" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="vYmMZfeYy7RLyqo0MjJt-136" value="" style="endArrow=classic;html=1;fontSize=14;fontColor=#000000;startSize=14;endSize=14;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="652" y="155" as="sourcePoint" />
-            <mxPoint x="841" y="287" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vYmMZfeYy7RLyqo0MjJt-137" value="" style="endArrow=classic;html=1;fontSize=14;fontColor=#000000;startSize=14;endSize=14;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vYmMZfeYy7RLyqo0MjJt-134">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="409" as="sourcePoint" />
-            <mxPoint x="305" y="495" as="targetPoint" />
+            <mxPoint x="324" y="493" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vYmMZfeYy7RLyqo0MjJt-139" value="" style="endArrow=classic;html=1;fontSize=14;fontColor=#000000;startSize=14;endSize=14;curved=1;" edge="1" parent="1">
@@ -72,6 +76,9 @@
             <mxPoint x="331" y="306" as="sourcePoint" />
             <mxPoint x="333" y="347" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vYmMZfeYy7RLyqo0MjJt-155" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;endArrow=open;startSize=14;endSize=14;" edge="1" parent="1" source="vYmMZfeYy7RLyqo0MjJt-140" target="vYmMZfeYy7RLyqo0MjJt-154">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vYmMZfeYy7RLyqo0MjJt-140" value="Ocupação de&amp;nbsp;&lt;br&gt;eletrodutos, perfilados e&amp;nbsp;&lt;br&gt;caixa octogonal&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=2;fontSize=14;fillColor=#FFCE9F;gradientColor=#9999FF;gradientDirection=east;arcSize=25;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="39.5" y="444" width="129" height="83.5" as="geometry" />
@@ -97,9 +104,15 @@
           <mxGeometry x="509" y="229" as="geometry" />
         </mxCell>
         <mxCell id="vYmMZfeYy7RLyqo0MjJt-148" value="Verificar&lt;br&gt;previsão de" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="355" y="428" as="geometry">
+          <mxGeometry x="369" y="425" as="geometry">
             <mxPoint x="6" y="22" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vYmMZfeYy7RLyqo0MjJt-154" value="Ocupação de&amp;nbsp;&lt;br&gt;eletrodutos, perfilados e&amp;nbsp;&lt;br&gt;caixa octogonal&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=2;fontSize=14;fillColor=#FFCE9F;gradientColor=#9999FF;gradientDirection=east;arcSize=25;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="39.5" y="607.5" width="129" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vYmMZfeYy7RLyqo0MjJt-158" value="Proerg\Biblioteca\Produçao &lt;br&gt;técnica\DIP&lt;br&gt;-DIP 19 - Quantidade de ptos EL&lt;br&gt;-DIP 04 - Ocupacao e &lt;br&gt;peso eletrodutos" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#FFCE9F;gradientColor=#9999FF;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="385" y="541" width="314" height="217" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
