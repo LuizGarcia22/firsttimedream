@@ -1,183 +1,212 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T13:01:37.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="bLCyeawN9y7M4ja6uaEk" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T14:51:28.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="DwRAs3X95yXwVbTV-2eR" version="20.2.8" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="1103" dy="598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#CCE5FF" math="0" shadow="1">
+    <mxGraphModel dx="1103" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#E6E6E6" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-78" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="55" as="sourcePoint" />
-            <mxPoint x="183" y="104" as="targetPoint" />
+            <mxPoint x="193.83592224121094" y="98.50518035888672" as="targetPoint" />
+            <mxPoint x="397" y="46" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-79" value="PONTOS&lt;br&gt;DE FORÇA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="MHMpJZpw5D0zB8RGn0rr-78">
+          <mxGeometry x="-0.433" y="2" relative="1" as="geometry">
+            <mxPoint x="-26" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-83" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="351" y="178" as="targetPoint" />
+            <mxPoint x="404" y="56" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-85" value="PONTOS&amp;nbsp;&lt;br&gt;DE TOMADAS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="MHMpJZpw5D0zB8RGn0rr-83">
+          <mxGeometry x="0.1207" y="2" relative="1" as="geometry">
+            <mxPoint x="41" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-119" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="vYmMZfeYy7RLyqo0MjJt-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514.6691741943359" y="168.5052261352539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-122" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="vYmMZfeYy7RLyqo0MjJt-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="824" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYmMZfeYy7RLyqo0MjJt-97" value="PLANTA PILOTIS&lt;br&gt;&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=32;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="425" y="49" width="237" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-82" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="196" y="213.5051498413086" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-139" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="94" y="296" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-1" value="Verificar projeto&lt;br&gt;específico para &lt;br&gt;Ar Condicionado" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF6666;fillColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="142" y="103" width="108" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-92" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="499" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="343" y="55" />
-              <mxPoint x="214" y="55" />
+              <mxPoint x="194" y="499" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-3" value="PONTOS&lt;br&gt;&amp;nbsp;ELÉTRICOS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="MHMpJZpw5D0zB8RGn0rr-2">
-          <mxGeometry x="0.0177" y="-2" relative="1" as="geometry">
-            <mxPoint x="62" y="21" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-142" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-81">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="848" y="94.5" as="targetPoint" />
-            <mxPoint x="737" y="47" as="sourcePoint" />
+            <mxPoint x="117.16926574707031" y="295.17183685302734" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vYmMZfeYy7RLyqo0MjJt-97" target="MHMpJZpw5D0zB8RGn0rr-23">
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-81" value="ACADEMIA:&lt;br&gt;Bicicleta;&lt;br&gt;Esteira;&lt;br&gt;Elíptico;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF6666;fillColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="140" y="221" width="108" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-87" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-84">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="706" y="140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="545" y="100" />
-              <mxPoint x="673" y="100" />
-            </Array>
+            <mxPoint x="356.5" y="321.00521087646484" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vYmMZfeYy7RLyqo0MjJt-97" value="PLANTA DE GARAGEM&lt;br&gt;&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=32;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="426" y="47" width="237" height="39" as="geometry" />
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-84" value="Seguir layout para&lt;br&gt;locar pontos de bebedouro, TV,&lt;br&gt;máquina de gelo, etc;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF6666;fillColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="295" y="189" width="123" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-1" target="MHMpJZpw5D0zB8RGn0rr-5">
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-86" target="MHMpJZpw5D0zB8RGn0rr-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-1" target="MHMpJZpw5D0zB8RGn0rr-7">
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-86" value="Em caso de &lt;br&gt;Salão de Beleza, &lt;br&gt;colocar no mínimo &lt;br&gt;3 tomadas&amp;nbsp;600W" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF6666;fillColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="295" y="324" width="123" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-90" value="Em academia, prever pontos de WI-FI, tomadas 127V, e verificar briefing &lt;br&gt;para outras demandas" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF6666;fillColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="290.5" y="452" width="132" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-94">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="108.83586120605469" y="166.00518035888672" as="targetPoint" />
+            <mxPoint x="517" y="287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-120" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593.8358612060547" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-135" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="619" y="281" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="81" y="140" />
+              <mxPoint x="585" y="236" />
+              <mxPoint x="585" y="267" />
+              <mxPoint x="619" y="267" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-1" value="Tomadas 127V&amp;nbsp;&lt;br&gt;nas extremidades&lt;br&gt;do pavimento" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="129" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-94" value="Dividir os pontos de maneira uniforme" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF6666;fillColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="469" y="183" width="96" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="87.16923522949219" y="344.33846282958984" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-95" value="PONTOS&amp;nbsp;&lt;br&gt;DE ILUMINAÇÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="575" y="129" as="geometry" />
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="306" y="350" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-97" value="Distancia de até 3m pensando no projeto luminotécnico" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A9C4EB;rounded=1;gradientColor=#FFCCE6;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="606" y="176.5" width="127" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="332" y="205" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="189" y="205" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-5" value="Ao locar os&lt;br&gt;&amp;nbsp;pontos de iluminação:&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="129" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-7" value="Verificar briefing&amp;nbsp;&lt;br&gt;para pedidos do cliente" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;rounded=1;gradientColor=#D5E8D4;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="21" y="170" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="177.16929626464844" y="452.67183685302734" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-15" value="Centralizar o ponto&lt;br&gt;de acordo com o&lt;br&gt;quadrante das vigas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;rounded=1;gradientColor=#D5E8D4;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="16" y="354" width="139" height="88" as="geometry" />
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="196.3358612060547" y="452.67183685302734" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-16" value="Fazer o cálculo&lt;br&gt;luminotécnico no site:&lt;br&gt;&lt;a href=&quot;https://www.visual-3d.com/tools/interior/&quot;&gt;https://www.visual-3d.com/tools/interior/&lt;/a&gt;&lt;br&gt;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;rounded=1;gradientColor=#D5E8D4;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="224" y="353" width="152" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-18" value="Usar o comando DIVIDE&lt;br&gt;para distribuir os pontos&amp;nbsp;&lt;br&gt;dentro do quadrante" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;rounded=1;gradientColor=#D5E8D4;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="111" y="461" width="151" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="665" y="263" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-23" value="Verificar na arquitetura os&lt;br&gt;locais&amp;nbsp;para os&lt;br&gt;&amp;nbsp;pontos de força" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FF9999;gradientColor=#FFD966;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="605" y="140" width="120" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="751" y="461" as="targetPoint" />
-            <mxPoint x="703" y="366" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="706" y="411" />
-              <mxPoint x="751" y="411" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="626.3359222412109" y="448.50521087646484" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-29" value="Pontos de força&lt;br&gt;&amp;nbsp;mais comuns:&lt;br&gt;Portão eletrônico;&lt;br&gt;Bomba de recalque;&lt;br&gt;Pressurização;&lt;br&gt;Irrigação;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FF9999;gradientColor=#FFD966;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="621" y="271" width="128" height="101" as="geometry" />
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-32" value="Verificar no briefing&lt;br&gt;a necessidade&lt;br&gt;de pontos de força&amp;nbsp;&lt;br&gt;para carros elétricos;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;rounded=1;gradientColor=#D5E8D4;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="536" y="450" width="149" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-34" value="TUBULAÇÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="778" y="85" as="geometry">
-            <mxPoint x="5" y="-28" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="826" y="282" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.305;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-35" target="MHMpJZpw5D0zB8RGn0rr-66">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="873.8358612060547" y="230.17183685302734" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="826" y="214" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-35" value="Para eletrodutos rígidos com&lt;br&gt;&amp;nbsp;diâmetro maior que 40mm usar cx. de passagem;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="764" y="101" width="124" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-36" value="Não esqueça de fazer a alimentação dos quadros com&lt;br&gt;&amp;nbsp;tubulação na layer 70" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="767" y="288.5" width="134" height="75.5" as="geometry" />
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-51">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="313.0026092529297" y="102.67183685302734" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-51" target="MHMpJZpw5D0zB8RGn0rr-55">
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-101" target="MHMpJZpw5D0zB8RGn0rr-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-51" value="Locar os sensores&lt;br&gt;que abrangem um&lt;br&gt;grupo pontos de iluminação&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="334" y="152" width="120" height="74" as="geometry" />
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-101" value="Luminárias acima da bancada&lt;br&gt;&amp;nbsp;são 60W" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF6666;fillColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="460" y="295" width="104" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-55" target="MHMpJZpw5D0zB8RGn0rr-57">
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-102" target="MHMpJZpw5D0zB8RGn0rr-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-55" value="Cada comando&amp;nbsp;&lt;br&gt;pode ser repetido&lt;br&gt;em dois sensores&lt;br&gt;cuja aréa de &lt;br&gt;atuação é de 7m" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="416" y="257" width="120" height="84" as="geometry" />
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-102" target="MHMpJZpw5D0zB8RGn0rr-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="643" y="371" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-57" target="MHMpJZpw5D0zB8RGn0rr-75">
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-102" value="Colocar Ventokit em lavabos e banho sem janela&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF6666;fillColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="460.75" y="386" width="103.25" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-104" target="MHMpJZpw5D0zB8RGn0rr-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640.0050000000001" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-104" value="Usar balizadores em áreas com mureta" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF6666;fillColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="460" y="497" width="103.25" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-108" value="Evitar colocar pontos na faixada do prédio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A9C4EB;rounded=1;gradientColor=#FFCCE6;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="605" y="495" width="110" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-110" value="O VentoKit possui o mesmo circuito que&amp;nbsp;&lt;br&gt;as luminárias" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A9C4EB;rounded=1;gradientColor=#FFCCE6;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="606" y="378" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-112" target="MHMpJZpw5D0zB8RGn0rr-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-57" value="A circulação de carros&lt;br&gt;deve ser atendida por&lt;br&gt;sensores VG" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="372" width="137" height="60" as="geometry" />
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-133" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="944" y="169" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-63" value="Lembrar dos retornos&lt;br&gt;de comando do portão eletrônico e a&lt;br&gt;bomba de recalque" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;rounded=1;gradientColor=#D5E8D4;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="692" y="465" width="155" height="96" as="geometry" />
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-148" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="919.6692352294922" y="259.3385238647461" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-66" value="CX.20x20cm - até 60mm;&lt;br&gt;Cx.30x30cm - até 65mm;&lt;br&gt;CX.40x40cm - até 110mm&lt;br&gt;desde que não possua curva;&lt;br&gt;CX.50x50cm - até 110mm&lt;br&gt;&amp;nbsp;com ou sem curva;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;rounded=1;gradientColor=#D5E8D4;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="883" y="173" width="205" height="133" as="geometry" />
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-112" value="Prever cx .de passagem para atender os pontos de iluminação de jardim" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF6666;fillColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="766" y="129" width="123" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-75" value="As luminárias&lt;br&gt;&amp;nbsp;com comando &lt;br&gt;VG devem possuir &lt;br&gt;um circuito próprio&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="359" y="476" width="123" height="68" as="geometry" />
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-113" value="ÁREA &lt;br&gt;EXTERNA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="746" y="40" as="geometry">
+            <mxPoint y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-115" value="Fazer vista da caixa&amp;nbsp;&lt;br&gt;com os tubos de &lt;br&gt;distancia de 2cm um dos outros para saber sua ocupação" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A9C4EB;rounded=1;gradientColor=#FFCCE6;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="947" y="134" width="141" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-123" target="MHMpJZpw5D0zB8RGn0rr-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-123" value="Qualquer ponto na área externa deve ser adicionado à um circuito separado da área interna" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF6666;fillColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="733" y="284" width="123" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-128" value="Qualquer ponto de&lt;br&gt;&amp;nbsp;iluminação que for&lt;br&gt;acionado pelo quadro de contatores deve ser representado na &lt;br&gt;Tabela de contatores" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A9C4EB;rounded=1;gradientColor=#FFCCE6;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="870" y="254.5" width="168" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-131" target="MHMpJZpw5D0zB8RGn0rr-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-150" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-131" target="MHMpJZpw5D0zB8RGn0rr-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-131" value="A tubulação de áreas como jardim devem ser de isolação 1KV&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF6666;fillColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="733" y="443" width="123" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-136" value="Dividir os circuitos&lt;br&gt;com folga para o luminotécnico" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A9C4EB;rounded=1;gradientColor=#FFCCE6;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="585" y="284" width="127" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-137" target="MHMpJZpw5D0zB8RGn0rr-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-137" value="A potência do ar condicionado deve ser definida pelo projeto específico!&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A9C4EB;rounded=1;gradientColor=#FFCCE6;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="28" y="304" width="138" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-151" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-144" target="MHMpJZpw5D0zB8RGn0rr-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-144" value="Seguir projeto de paisagismo para evitar&lt;br&gt;tubulações cortando raízes de plantas" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF6666;fillColor=#B3B3B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="730" y="563" width="129" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-146" value="O projeto específico &lt;br&gt;também é necessário &lt;br&gt;para dimensionar &lt;br&gt;os pontos de força&lt;br&gt;&amp;nbsp;da piscina e sauna&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A9C4EB;rounded=1;gradientColor=#FFCCE6;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="70" y="517" width="166" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-149" value="Observar os diferentes níveis do pilotis para passar a tubulação" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A9C4EB;rounded=1;gradientColor=#FFCCE6;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="913" y="481" width="136" height="113" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
