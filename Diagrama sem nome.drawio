@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T12:29:04.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ukHcwQAq_tu9_6tOwrhM" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T13:01:37.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="bLCyeawN9y7M4ja6uaEk" version="20.2.8" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="1103" dy="598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#CCE5FF" math="0" shadow="1">
       <root>
@@ -25,12 +25,12 @@
             <mxPoint x="737" y="47" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vYmMZfeYy7RLyqo0MjJt-97">
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vYmMZfeYy7RLyqo0MjJt-97" target="MHMpJZpw5D0zB8RGn0rr-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="706" y="140" as="targetPoint" />
             <Array as="points">
               <mxPoint x="545" y="100" />
-              <mxPoint x="706" y="100" />
+              <mxPoint x="673" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -102,9 +102,10 @@
         <mxCell id="MHMpJZpw5D0zB8RGn0rr-23" value="Verificar na arquitetura os&lt;br&gt;locais&amp;nbsp;para os&lt;br&gt;&amp;nbsp;pontos de força" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FF9999;gradientColor=#FFD966;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="605" y="140" width="120" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.66;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-29">
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="751" y="461" as="targetPoint" />
+            <mxPoint x="703" y="366" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="706" y="411" />
               <mxPoint x="751" y="411" />
@@ -116,7 +117,7 @@
             <mxPoint x="626.3359222412109" y="448.50521087646484" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-29" value="Pontos mais comuns:&lt;br&gt;Portão eletrônico;&lt;br&gt;Bomba de recalque;&lt;br&gt;Pressurização;&lt;br&gt;Irrigação;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FF9999;gradientColor=#FFD966;gradientDirection=east;" vertex="1" parent="1">
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-29" value="Pontos de força&lt;br&gt;&amp;nbsp;mais comuns:&lt;br&gt;Portão eletrônico;&lt;br&gt;Bomba de recalque;&lt;br&gt;Pressurização;&lt;br&gt;Irrigação;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FF9999;gradientColor=#FFD966;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="621" y="271" width="128" height="101" as="geometry" />
         </mxCell>
         <mxCell id="MHMpJZpw5D0zB8RGn0rr-32" value="Verificar no briefing&lt;br&gt;a necessidade&lt;br&gt;de pontos de força&amp;nbsp;&lt;br&gt;para carros elétricos;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;rounded=1;gradientColor=#D5E8D4;gradientDirection=east;" vertex="1" parent="1">
@@ -143,8 +144,8 @@
         <mxCell id="MHMpJZpw5D0zB8RGn0rr-35" value="Para eletrodutos rígidos com&lt;br&gt;&amp;nbsp;diâmetro maior que 40mm usar cx. de passagem;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="764" y="101" width="124" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="MHMpJZpw5D0zB8RGn0rr-36" value="Não esqueça de fazer a alimentação dos quadros com tubulação na layer 70" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="769" y="288.5" width="132" height="66" as="geometry" />
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-36" value="Não esqueça de fazer a alimentação dos quadros com&lt;br&gt;&amp;nbsp;tubulação na layer 70" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="767" y="288.5" width="134" height="75.5" as="geometry" />
         </mxCell>
         <mxCell id="MHMpJZpw5D0zB8RGn0rr-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-51">
           <mxGeometry relative="1" as="geometry">
@@ -163,6 +164,9 @@
         <mxCell id="MHMpJZpw5D0zB8RGn0rr-55" value="Cada comando&amp;nbsp;&lt;br&gt;pode ser repetido&lt;br&gt;em dois sensores&lt;br&gt;cuja aréa de &lt;br&gt;atuação é de 7m" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="416" y="257" width="120" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHMpJZpw5D0zB8RGn0rr-57" target="MHMpJZpw5D0zB8RGn0rr-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MHMpJZpw5D0zB8RGn0rr-57" value="A circulação de carros&lt;br&gt;deve ser atendida por&lt;br&gt;sensores VG" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="407.5" y="372" width="137" height="60" as="geometry" />
         </mxCell>
@@ -171,6 +175,9 @@
         </mxCell>
         <mxCell id="MHMpJZpw5D0zB8RGn0rr-66" value="CX.20x20cm - até 60mm;&lt;br&gt;Cx.30x30cm - até 65mm;&lt;br&gt;CX.40x40cm - até 110mm&lt;br&gt;desde que não possua curva;&lt;br&gt;CX.50x50cm - até 110mm&lt;br&gt;&amp;nbsp;com ou sem curva;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;rounded=1;gradientColor=#D5E8D4;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="883" y="173" width="205" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="MHMpJZpw5D0zB8RGn0rr-75" value="As luminárias&lt;br&gt;&amp;nbsp;com comando &lt;br&gt;VG devem possuir &lt;br&gt;um circuito próprio&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFD966;fillColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="359" y="476" width="123" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
