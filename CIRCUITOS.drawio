@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T17:49:39.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.54" etag="Vrb1ohEACLGBX2ge-wk9" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T17:54:11.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.54" etag="hW0l8JKWvrY4ZazJg4BI" version="20.2.8" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2087" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="77e6c97f196da883-1" value="Pool" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=yellow;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#CCE5FF;" parent="1" vertex="1">
+        <mxCell id="77e6c97f196da883-1" value="ELE" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=yellow;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="-171" y="232" width="4369" height="750" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="Lane 1" style="swimlane;html=1;startSize=20;fillColor=#000000;" parent="77e6c97f196da883-1" vertex="1">
@@ -230,7 +230,7 @@
         <mxCell id="QsrUI3fO2fAxIIPYA9e1-114" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="77e6c97f196da883-4" source="_DbIRMYSHlHVo-eN8sxW-148" target="QsrUI3fO2fAxIIPYA9e1-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_DbIRMYSHlHVo-eN8sxW-148" value="ELÉTRICO" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;sketch=0;fillColor=#9999FF;gradientColor=none;gradientDirection=east;" parent="77e6c97f196da883-4" vertex="1">
+        <mxCell id="_DbIRMYSHlHVo-eN8sxW-148" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ELÉTRICO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;sketch=0;fillColor=#9999FF;gradientColor=none;gradientDirection=east;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="498.75" y="122" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_DbIRMYSHlHVo-eN8sxW-161" value="ILUMINAÇÃO SOCIAL" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;fillColor=#66B2FF;gradientColor=none;gradientDirection=east;" parent="77e6c97f196da883-4" vertex="1">
@@ -348,7 +348,7 @@
         <mxCell id="QsrUI3fO2fAxIIPYA9e1-113" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-4" source="_DbIRMYSHlHVo-eN8sxW-149" target="QsrUI3fO2fAxIIPYA9e1-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_DbIRMYSHlHVo-eN8sxW-149" value="TELECOM" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#9999FF;gradientColor=none;gradientDirection=east;" parent="77e6c97f196da883-4" vertex="1">
+        <mxCell id="_DbIRMYSHlHVo-eN8sxW-149" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;TELECOM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#9999FF;gradientColor=none;gradientDirection=east;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="1175" y="176" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_DbIRMYSHlHVo-eN8sxW-54" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=8;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="77e6c97f196da883-4" source="_DbIRMYSHlHVo-eN8sxW-42" target="77e6c97f196da883-11" edge="1">
@@ -469,14 +469,23 @@
         <mxCell id="QsrUI3fO2fAxIIPYA9e1-106" value="COMPATIBILIZAÇÃO OUTROS PROJETOS&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;fillColor=#9999FF;gradientColor=none;gradientDirection=east;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="814" y="146" width="97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-5" value="Lane 4" style="swimlane;html=1;startSize=20;fontColor=#000000;" parent="77e6c97f196da883-1" vertex="1">
+        <mxCell id="77e6c97f196da883-5" value="ELE" style="swimlane;html=1;startSize=20;fontColor=#000000;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="1805" y="20" width="1584" height="730" as="geometry" />
         </mxCell>
         <mxCell id="QsrUI3fO2fAxIIPYA9e1-116" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PROJETO EXECUTIVO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;fillColor=#99FFFF;strokeColor=#36393d;gradientColor=#66FFB3;gradientDirection=east;fontColor=#000000;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="250" y="57" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QsrUI3fO2fAxIIPYA9e1-118" value="FIAÇÃO" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontFamily=Verdana;fontSize=8;fillColor=#9999FF;labelBackgroundColor=none;strokeWidth=1;gradientColor=none;gradientDirection=east;" vertex="1" parent="77e6c97f196da883-5">
-          <mxGeometry x="144" y="143" width="86" height="18" as="geometry" />
+          <mxGeometry x="138.5" y="187" width="59" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="QsrUI3fO2fAxIIPYA9e1-124" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ELÉTRICO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontFamily=Verdana;fontSize=14;fillColor=#9999FF;" vertex="1" parent="77e6c97f196da883-5">
+          <mxGeometry x="108" y="113" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QsrUI3fO2fAxIIPYA9e1-126" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;TELECOM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontFamily=Verdana;fontSize=14;fillColor=#9999FF;" vertex="1" parent="77e6c97f196da883-5">
+          <mxGeometry x="387" y="113" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QsrUI3fO2fAxIIPYA9e1-127" value="REPRESENTAÇÃO DE CADA CIRCUITO SAINDO DO QDC E CHEGANDO A SEU RESPECTIVO EQUIPAMENTO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;fillColor=#66B2FF;gradientColor=none;gradientDirection=east;" vertex="1" parent="77e6c97f196da883-5">
+          <mxGeometry x="16" y="213" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-6" value="Lane 5" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="3389" y="20" width="310" height="730" as="geometry" />
