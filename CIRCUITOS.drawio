@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T13:39:03.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.54" etag="JL5WhVy9NFiQf4yr0Mh7" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T13:43:15.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.54" etag="XmL2TazTxi67VN7y9xUj" version="20.2.8" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2416" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
         <mxCell id="_DbIRMYSHlHVo-eN8sxW-262" value="COMANDOS SEPARADOS PARA ILUMINAÇÃO NO BANHEIRO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#66FFFF;fontFamily=Verdana;fontSize=8;fontColor=#FFFAFD;fillColor=#3399FF;gradientColor=none;gradientDirection=east;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="49.75" y="288" width="64.5" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-4" value="Lane 3" style="swimlane;html=1;startSize=20;fillStyle=solid;fillColor=#f0a30a;strokeColor=#BD7000;gradientDirection=east;fontColor=#000000;fontSize=8;fontFamily=Verdana;rounded=1;" parent="77e6c97f196da883-1" vertex="1">
+        <mxCell id="77e6c97f196da883-4" value="Lane 3" style="swimlane;html=1;startSize=20;fillStyle=solid;fillColor=#f0a30a;strokeColor=#BD7000;gradientDirection=east;fontColor=#000000;fontSize=8;fontFamily=Verdana;rounded=1;shadow=1;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="433" y="20" width="1310.25" height="730" as="geometry" />
         </mxCell>
         <mxCell id="_DbIRMYSHlHVo-eN8sxW-41" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Verdana&quot;&gt;SENSORES LOCALIZADOS PARA ATENDER A MAIOR ÁREA POSSÍVEL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontFamily=Verdana;fontSize=8;fillColor=#66B2FF;gradientColor=none;gradientDirection=east;" parent="77e6c97f196da883-4" vertex="1">
