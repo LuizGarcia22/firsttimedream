@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T13:48:02.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.80" etag="gCH5iNZYDeAExMsvzZI7" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T13:49:33.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.80" etag="G51dHgyEsYlsJ19B5-ff" version="20.2.8" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1992" dy="-351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3226" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -620,9 +620,9 @@
         <mxCell id="Lup1MCPVR1_stNmRgbZv-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;PROJETO EXECUTIVO&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;rounded=1;shadow=0;sketch=0;strokeColor=#36393d;fontFamily=Verdana;fontSize=8;fontColor=#000000;fillColor=#99FFFF;gradientColor=#66FFB3;gradientDirection=east;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="1596" y="966" width="109" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="Lup1MCPVR1_stNmRgbZv-28" value="ORDEM DISJUNTORES" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;sketch=0;strokeColor=default;fontFamily=Verdana;fontSize=8;fontColor=default;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1762" y="1344" width="130" height="26" as="geometry">
-            <mxRectangle x="1762" y="1344" width="140" height="182" as="alternateBounds" />
+        <mxCell id="Lup1MCPVR1_stNmRgbZv-28" value="ORDEM DISJUNTORES" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;sketch=0;strokeColor=default;fontFamily=Verdana;fontSize=8;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1762" y="1344" width="140" height="182" as="geometry">
+            <mxRectangle x="1762" y="1344" width="130" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lup1MCPVR1_stNmRgbZv-29" value="GERAL, DPS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;sketch=0;fontFamily=Verdana;fontSize=8;fontColor=default;html=1;" vertex="1" parent="Lup1MCPVR1_stNmRgbZv-28">
