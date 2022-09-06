@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T16:56:43.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.80" etag="r9cHOOme0IVUa5CK-3nv" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T16:57:52.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.80" etag="oBU4fjJq8DivsdDfPpSJ" version="20.2.8" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2252" dy="-205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2482" dy="-76" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,8 +134,8 @@
             <mxPoint x="-608.384761904762" y="1432.64" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_DbIRMYSHlHVo-eN8sxW-127" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Verdana&quot;&gt;GELADEIRA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;fillColor=#66B2FF;gradientColor=none;gradientDirection=east;" parent="1" vertex="1">
-          <mxGeometry x="-662.48" y="1335.64" width="50" height="15" as="geometry" />
+        <mxCell id="_DbIRMYSHlHVo-eN8sxW-127" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Verdana&quot;&gt;COLOCAR PONTOS ESPECÍFICOS DE ACORDO COM LAYOUT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;fillColor=#66B2FF;gradientColor=none;gradientDirection=east;" parent="1" vertex="1">
+          <mxGeometry x="-678.72" y="1318" width="82.48" height="44.36" as="geometry" />
         </mxCell>
         <mxCell id="_DbIRMYSHlHVo-eN8sxW-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=8;" parent="1" source="_DbIRMYSHlHVo-eN8sxW-86" target="_DbIRMYSHlHVo-eN8sxW-127" edge="1">
           <mxGeometry relative="1" as="geometry" />
