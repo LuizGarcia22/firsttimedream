@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T13:49:33.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.80" etag="G51dHgyEsYlsJ19B5-ff" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T16:17:55.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.80" etag="RYA0mTOTCq8VpPAIbybE" version="20.2.8" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="3226" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="-297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -258,8 +258,8 @@
         <mxCell id="_DbIRMYSHlHVo-eN8sxW-193" value="NUMERAÇÃO DOS CIRCUITOS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;fontColor=default;fillColor=#66B2FF;gradientColor=none;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="339.5" y="1414" width="105" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="_DbIRMYSHlHVo-eN8sxW-196" value="1-TOMADAS&#xa;2-ILUMINAÇÃO&#xa;3-AQUECIMENTO&#xa;4-PONTOS DE FORÇA&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=1;glass=0;sketch=0;fillStyle=solid;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="327.25" y="1474.94" width="111" height="45" as="geometry" />
+        <mxCell id="_DbIRMYSHlHVo-eN8sxW-196" value="1-TOMADAS&#xa;2-ILUMINAÇÃO&#xa;3- CHUVEIRO&#xa;4-AQUECIMENTO&#xa;5-PONTOS DE FORÇA&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=1;glass=0;sketch=0;fillStyle=solid;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="327.25" y="1474.94" width="112.75" height="55.06" as="geometry" />
         </mxCell>
         <mxCell id="_DbIRMYSHlHVo-eN8sxW-202" value="PRIORIZAR UM CIRCUITO PARA ILUMINAÇÃO E UM PARA TOMADA" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;fontColor=default;fillColor=#66B2FF;gradientColor=none;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="352.5" y="1347" width="120" height="44" as="geometry" />
@@ -509,7 +509,7 @@
         <mxCell id="QsrUI3fO2fAxIIPYA9e1-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=10;" parent="1" source="QsrUI3fO2fAxIIPYA9e1-98" target="_DbIRMYSHlHVo-eN8sxW-244" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QsrUI3fO2fAxIIPYA9e1-98" value="CIRCUITOS DE TOMADAS GERAIS E ILUMINAÇÃO PODEM CHEGAR NUMA CARGA DE 1200W, PODE SE TER UMA CARGA MAIIOR EM ALGUMAS EXCEÇÕES" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;fillColor=#66B2FF;gradientColor=none;gradientDirection=east;" parent="1" vertex="1">
+        <mxCell id="QsrUI3fO2fAxIIPYA9e1-98" value="CIRCUITOS DE TOMADAS GERAIS E ILUMINAÇÃO PODEM CHEGAR NUMA CARGA DE 1200W(EM127V), PODE SE TER UMA CARGA MAIOR EM ALGUMAS EXCEÇÕES" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;fillColor=#66B2FF;gradientColor=none;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="9.75" y="1163.94" width="141" height="63" as="geometry" />
         </mxCell>
         <mxCell id="QsrUI3fO2fAxIIPYA9e1-102" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QsrUI3fO2fAxIIPYA9e1-100" edge="1">
@@ -560,7 +560,7 @@
         <mxCell id="Lup1MCPVR1_stNmRgbZv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.443;entryY=-0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QsrUI3fO2fAxIIPYA9e1-182" target="Lup1MCPVR1_stNmRgbZv-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lup1MCPVR1_stNmRgbZv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QsrUI3fO2fAxIIPYA9e1-182" target="Lup1MCPVR1_stNmRgbZv-28">
+        <mxCell id="Lup1MCPVR1_stNmRgbZv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QsrUI3fO2fAxIIPYA9e1-185" target="Lup1MCPVR1_stNmRgbZv-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1730.8571428571427" y="1330.0714285714284" as="targetPoint" />
           </mxGeometry>
@@ -621,27 +621,36 @@
           <mxGeometry x="1596" y="966" width="109" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Lup1MCPVR1_stNmRgbZv-28" value="ORDEM DISJUNTORES" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;sketch=0;strokeColor=default;fontFamily=Verdana;fontSize=8;fontColor=default;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1762" y="1344" width="140" height="182" as="geometry">
+          <mxGeometry x="1762" y="1340" width="108" height="182" as="geometry">
             <mxRectangle x="1762" y="1344" width="130" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lup1MCPVR1_stNmRgbZv-29" value="GERAL, DPS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;sketch=0;fontFamily=Verdana;fontSize=8;fontColor=default;html=1;" vertex="1" parent="Lup1MCPVR1_stNmRgbZv-28">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        <mxCell id="Lup1MCPVR1_stNmRgbZv-43" value="GERAL, DPS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;sketch=0;fontFamily=Verdana;fontSize=8;fontColor=default;html=1;" vertex="1" parent="Lup1MCPVR1_stNmRgbZv-28">
+          <mxGeometry y="26" width="108" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Lup1MCPVR1_stNmRgbZv-29" value="CIRCUITOS SEM DR" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;sketch=0;fontFamily=Verdana;fontSize=8;fontColor=default;html=1;" vertex="1" parent="Lup1MCPVR1_stNmRgbZv-28">
+          <mxGeometry y="52" width="108" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Lup1MCPVR1_stNmRgbZv-30" value="DR 1, IDR1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;sketch=0;fontFamily=Verdana;fontSize=8;fontColor=default;html=1;" vertex="1" parent="Lup1MCPVR1_stNmRgbZv-28">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
+          <mxGeometry y="78" width="108" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Lup1MCPVR1_stNmRgbZv-31" value="DR 2, IDR2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;sketch=0;fontFamily=Verdana;fontSize=8;fontColor=default;html=1;" vertex="1" parent="Lup1MCPVR1_stNmRgbZv-28">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
+          <mxGeometry y="104" width="108" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Lup1MCPVR1_stNmRgbZv-36" value="DR 3, IDR3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;sketch=0;fontFamily=Verdana;fontSize=8;fontColor=default;html=1;" vertex="1" parent="Lup1MCPVR1_stNmRgbZv-28">
-          <mxGeometry y="104" width="140" height="26" as="geometry" />
+          <mxGeometry y="130" width="108" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Lup1MCPVR1_stNmRgbZv-37" value="DR 4, IDR4" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;sketch=0;fontFamily=Verdana;fontSize=8;fontColor=default;html=1;" vertex="1" parent="Lup1MCPVR1_stNmRgbZv-28">
-          <mxGeometry y="130" width="140" height="26" as="geometry" />
+          <mxGeometry y="156" width="108" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Lup1MCPVR1_stNmRgbZv-38" value="CIRCUITOS SEM DR" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;sketch=0;fontFamily=Verdana;fontSize=8;fontColor=default;html=1;" vertex="1" parent="Lup1MCPVR1_stNmRgbZv-28">
-          <mxGeometry y="156" width="140" height="26" as="geometry" />
+        <mxCell id="Lup1MCPVR1_stNmRgbZv-39" value="" style="shape=mxgraph.signs.safety.high_voltage_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="506.75" y="1086" width="10" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Lup1MCPVR1_stNmRgbZv-40" value="V" style="shape=mxgraph.signs.safety.high_voltage_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="1060.5" width="10" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Lup1MCPVR1_stNmRgbZv-42" value="" style="shape=mxgraph.signs.safety.high_voltage_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1689" y="1064.5" width="10" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
