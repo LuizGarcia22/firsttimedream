@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T14:07:55.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="DS2i1z5re40jQqRG2EPF" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T16:11:44.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hNFzaCXMt7b3uQVakmud" version="20.2.8" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="1164" dy="598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#9AC7BF" math="0" shadow="1">
       <root>
@@ -23,14 +23,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yQmMGdKQmBahugFoPw73-88" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="yQmMGdKQmBahugFoPw73-1" target="yQmMGdKQmBahugFoPw73-85">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yQmMGdKQmBahugFoPw73-89" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="yQmMGdKQmBahugFoPw73-1" target="yQmMGdKQmBahugFoPw73-83">
+        <mxCell id="yQmMGdKQmBahugFoPw73-116" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="yQmMGdKQmBahugFoPw73-1" target="yQmMGdKQmBahugFoPw73-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="515" y="392" />
-              <mxPoint x="446" y="392" />
+              <mxPoint x="515" y="390" />
+              <mxPoint x="432" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQmMGdKQmBahugFoPw73-117" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="1" target="yQmMGdKQmBahugFoPw73-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="581" y="363" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="581" y="366" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -205,8 +210,8 @@
         <mxCell id="yQmMGdKQmBahugFoPw73-78" value="Última folha:" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#99FFFF;strokeColor=#000000;fontColor=#000000;gradientDirection=east;gradientColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="784" y="641" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yQmMGdKQmBahugFoPw73-80" value="Deve possuir&lt;br&gt;o a Vista de shaft" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="942" y="665.5" width="144" height="47" as="geometry" />
+        <mxCell id="yQmMGdKQmBahugFoPw73-80" value="Deve possuir&lt;br&gt;a Vista de shaft" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="946" y="666" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="yQmMGdKQmBahugFoPw73-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="yQmMGdKQmBahugFoPw73-83" target="yQmMGdKQmBahugFoPw73-91">
           <mxGeometry relative="1" as="geometry">
@@ -225,15 +230,13 @@
         <mxCell id="yQmMGdKQmBahugFoPw73-112" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="yQmMGdKQmBahugFoPw73-85" target="yQmMGdKQmBahugFoPw73-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yQmMGdKQmBahugFoPw73-114" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="yQmMGdKQmBahugFoPw73-85" target="yQmMGdKQmBahugFoPw73-97">
+        <mxCell id="yQmMGdKQmBahugFoPw73-115" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="yQmMGdKQmBahugFoPw73-85">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="686" y="483" />
-            </Array>
+            <mxPoint x="693.6692504882812" y="675.1718368530273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yQmMGdKQmBahugFoPw73-85" value="Não existe limite&#xa;de número de&#xa;folhas para um projeto.&#xa;Use o bom senso &#xa;na hora de &#xa;emitir os formatos " style="fontSize=12;fontColor=#000000;gradientColor=#FFFFCC;gradientDirection=east;fillColor=#EA6B66;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="516" y="422" width="136" height="121" as="geometry" />
+          <mxGeometry x="513" y="416.5" width="136" height="121" as="geometry" />
         </mxCell>
         <mxCell id="yQmMGdKQmBahugFoPw73-91" value="A nomeclatura &#xa;das folhas &#xa;devem seguir &#xa;o padrão &#xa;do cliente" style="fontSize=12;fontColor=#000000;gradientColor=#FFFFCC;gradientDirection=east;fillColor=#EA6B66;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="283" y="567" width="99" height="88" as="geometry" />
@@ -242,13 +245,13 @@
           <mxGeometry x="252" y="670" width="134" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yQmMGdKQmBahugFoPw73-97" value="Coloque o máximo &#xa;de plantas parecidas&#xa; em um mesmo&#xa; formato. Se estiver&#xa; fazendo formato de&#xa;planta subsolos, &#xa;coloque o máximo &#xa;de plantas &#xa;subsolo possível &#xa;na mesma folha" style="fontSize=12;fontColor=#000000;gradientColor=#FFFFCC;gradientDirection=east;fillColor=#EA6B66;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="618" y="691" width="136" height="153" as="geometry" />
+          <mxGeometry x="622" y="677" width="136" height="153" as="geometry" />
         </mxCell>
         <mxCell id="yQmMGdKQmBahugFoPw73-105" value="Repita o padrão&lt;br&gt;&amp;nbsp;para os pavtos&lt;br&gt;&amp;nbsp;tipo, duplex, &lt;br&gt;cobertura e etc" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#99FFFF;strokeColor=#000000;fontColor=#000000;gradientDirection=east;gradientColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="758" y="468" width="160" height="88" as="geometry" />
         </mxCell>
         <mxCell id="yQmMGdKQmBahugFoPw73-107" value="Vista interna e &#xa;Diagramas de QDC &#xa;Trafo, Bomba de &#xa;Recalque, Carros &#xa;elétricos, e Quadro &#xa;de contatores devem &#xa;estar no formato &#xa;seguinte da planta &#xa;que estão locados &#xa;quando não possível &#xa;ser na mesma folha." style="fontSize=12;fontColor=#000000;gradientColor=#FFFFCC;gradientDirection=east;fillColor=#EA6B66;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="449" y="584" width="154" height="186" as="geometry" />
+          <mxGeometry x="444" y="584" width="154" height="186" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
