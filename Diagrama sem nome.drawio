@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T13:08:53.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="T_YLPP-XfX_-ljVSa9bh" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-08T13:55:50.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ae21AkH4soYiw1s4oBaU" version="20.2.8" type="github" pages="2">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1929" dy="598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -289,18 +289,97 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B_jru3-q0e_XXZQDKq2u" name="Página-2">
-    <mxGraphModel dx="1103" dy="598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFF99" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFF66" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DJjF52VTF3k31cUxrFXv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=34;fontColor=#330000;strokeColor=#000000;" edge="1" parent="1" source="DJjF52VTF3k31cUxrFXv-1" target="DJjF52VTF3k31cUxrFXv-2">
+        <mxCell id="DJjF52VTF3k31cUxrFXv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=34;fontColor=#330000;strokeColor=#000000;" edge="1" parent="1" target="DJjF52VTF3k31cUxrFXv-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="479" y="74.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="DJjF52VTF3k31cUxrFXv-2" target="DJjF52VTF3k31cUxrFXv-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DJjF52VTF3k31cUxrFXv-1" value="SPDA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=34;fontColor=#330000;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="491" y="393" width="119" height="57" as="geometry" />
+        <mxCell id="DJjF52VTF3k31cUxrFXv-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="DJjF52VTF3k31cUxrFXv-2" target="DJjF52VTF3k31cUxrFXv-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DJjF52VTF3k31cUxrFXv-2" value="" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=34;fontColor=#330000;gradientColor=#67AB9F;gradientDirection=east;fillColor=#33FFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="490.5" y="254.5" width="120" height="60" as="geometry" />
+        <mxCell id="DJjF52VTF3k31cUxrFXv-16" value="TIPOS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="DJjF52VTF3k31cUxrFXv-12">
+          <mxGeometry x="-0.5999" y="-3" relative="1" as="geometry">
+            <mxPoint x="23" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="DJjF52VTF3k31cUxrFXv-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="362.16917419433594" y="159.33849334716797" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-2" value="Sistema de Proteção Contra Descargas Atmosféricas" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;fontColor=#330000;gradientColor=#FF9999;gradientDirection=east;fillColor=#99FFFF;strokeColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="113" y="105" width="120" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="DJjF52VTF3k31cUxrFXv-5" target="DJjF52VTF3k31cUxrFXv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-5" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;SPDA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#000000;fontSize=34;fontColor=#330000;fillColor=#99FFFF;gradientColor=#FF66B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="483" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="DJjF52VTF3k31cUxrFXv-7" target="DJjF52VTF3k31cUxrFXv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-7" value="Interno (estrutural)" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#99FFFF;strokeColor=#000000;fontColor=#330000;labelBorderColor=none;gradientColor=#FF9999;gradientDirection=east;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="43" y="257" width="122" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="DJjF52VTF3k31cUxrFXv-11" target="DJjF52VTF3k31cUxrFXv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-11" value="Externo" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#99FFFF;strokeColor=#000000;fontColor=#330000;labelBorderColor=none;gradientColor=#FF9999;gradientDirection=east;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="193" y="257" width="102" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="DJjF52VTF3k31cUxrFXv-17" target="DJjF52VTF3k31cUxrFXv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-17" value="Usa a estrutura da construção para realizar a descida&lt;br/&gt;da descarga." style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#99FFFF;strokeColor=#000000;fontColor=#330000;labelBorderColor=none;gradientColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="44" y="361" width="120" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="DJjF52VTF3k31cUxrFXv-19" target="DJjF52VTF3k31cUxrFXv-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-19" value="As descidas são expostas na fachada do prédio&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#99FFFF;strokeColor=#000000;fontColor=#330000;labelBorderColor=none;gradientColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="361" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-21" value="Mais econômico, pois&amp;nbsp; aproveita as vigas e pilares para a&lt;br style=&quot;font-size: 12px;&quot;&gt;função de subsistema &lt;br&gt;de descida. Além disso, &lt;br&gt;tem a vantagem de &lt;br&gt;não afetar a estética &lt;br&gt;da edificação" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#99FFFF;strokeColor=#000000;fontColor=#330000;labelBorderColor=none;gradientColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="39.28" y="507" width="130.72" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-23" value="Sua vantagem é que as descidas expostas na fachada do prédio&lt;br style=&quot;font-size: 12px;&quot;&gt;assumem função de captores, podendo receber descargas&lt;br style=&quot;font-size: 12px;&quot;&gt;laterais que uma descida interna não captaria." style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#99FFFF;strokeColor=#000000;fontColor=#330000;labelBorderColor=none;gradientColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="181.25" y="507" width="125.5" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="DJjF52VTF3k31cUxrFXv-29" target="DJjF52VTF3k31cUxrFXv-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-29" value="TUPAN PLUS" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;fontColor=#330000;gradientColor=#FF9999;gradientDirection=east;fillColor=#99FFFF;strokeColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="363" y="139" width="101" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="DJjF52VTF3k31cUxrFXv-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413.5050000000001" y="465.17183685302734" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-31" value="Planilha&amp;nbsp;que&lt;br&gt;&amp;nbsp;solicita ao usuário todos os dados necessários&lt;br&gt;&amp;nbsp;para se definir a classe da proteção necessária." style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#99FFFF;strokeColor=#000000;fontColor=#330000;labelBorderColor=none;gradientColor=#FF9999;gradientDirection=east;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="348.13" y="257" width="130.75" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-33" value="Dados Mais importantes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#000000;fontSize=12;fontColor=#000000;fillColor=#99FFFF;gradientColor=#FF9999;gradientDirection=east;swimlaneFillColor=#CCFFE6;" vertex="1" parent="1">
+          <mxGeometry x="320.51" y="470" width="186" height="204" as="geometry">
+            <mxRectangle x="351" y="468" width="69" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-34" value="- Medidas da área de exposição &#xa;da estrutura a ser protegida;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="DJjF52VTF3k31cUxrFXv-33">
+          <mxGeometry y="30" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-35" value="- Medidas de proteção ou &#xa;mitigação de risco;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="DJjF52VTF3k31cUxrFXv-33">
+          <mxGeometry y="60" width="186" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="DJjF52VTF3k31cUxrFXv-36" value="- Influências ambientais;&lt;br&gt;-Risco de incêndio ou explosão;&lt;br&gt;-Atributos da linha de energia;&amp;nbsp;&lt;br&gt;-Atributos da linha de &lt;br&gt;telecomunicações conectada;&lt;br&gt;-Dimensionamento das&lt;br&gt;perdas potenciais;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=12;fontColor=#000000;whiteSpace=wrap;html=1;" vertex="1" parent="DJjF52VTF3k31cUxrFXv-33">
+          <mxGeometry y="94" width="186" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
